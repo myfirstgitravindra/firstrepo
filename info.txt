@@ -6,3 +6,4 @@ i have job
 aws data
 i have good salary
 gitconflictlocal
+onelineforgit
